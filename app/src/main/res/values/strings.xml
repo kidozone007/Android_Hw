@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HW#2:劉銓</string>
+    <string name="sex">sex：</string>
+    <string name="age">age：</string>
+    <string name="btn_ok">enter</string>
+    <string name="sex_hint">(enter your sex)</string>
+    <string name="age_hint">(enter your age)</string>
+    <string name="suggestion">Suggest：</string>
+    <string name="sug_not_hurry">not hurry</string>
+    <string name="sug_get_married">get marry</string>
+    <string name="sug_find_couple">find couple</string>
+    <string name="sex_male">male</string>
+</resources>
