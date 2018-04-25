@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="sex">成績：</string>
+    <string name="age">age：</string>
+    <string name="btn_ok">等第轉換</string>
+    <string name="sex_hint">請輸入整數成績</string>
+    <string name="age_hint">(enter your age)</string>
+    <string name="suggestion">等第：</string>
+    <string name="suggestion2"> </string>
+    <string name="the_error">輸入分數應介於[0...100]</string>
+    <string name="sug_get_married">get marry</string>
+    <string name="sug_find_couple">find couple</string>
+    <string name="sex_male">male</string>
+</resources>
