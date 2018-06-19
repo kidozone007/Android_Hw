@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">作業七：劉銓</string>
+    <string name="row_dice">骰骰子</string>
+    <string name="get_score">查看成績</string>
+    <string name="user_win">玩家贏</string>
+    <string name="user_lose">電腦贏</string>
+    <string name="user_draw">平手</string>
+
+    <string name="total_set">總場數：</string>
+    <string name="user_win_set">玩家勝利：</string>
+    <string name="pc_win_set">玩家輸：</string>
+    <string name="draw">平手：</string>
+    <string name="user_back">返回</string>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/total_set"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"/>
+
+    <EditText
+        android:id="@+id/et_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/user_win_set"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"/>
+
+    <EditText
+        android:id="@+id/et_win"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/draw"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"/>
+
+    <EditText
+        android:id="@+id/et_draw"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pc_win_set"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"/>
+
+    <EditText
+        android:id="@+id/et_lose"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btn_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/user_back"/>
+</LinearLayout>
