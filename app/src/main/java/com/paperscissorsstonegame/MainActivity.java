@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
             mTxtComPlay.setText(strComputerChoice[game.getComputerChoice() - 1]);
 
             String strResults[] = {getString(R.string.user_lose), getString(R.string.user_win), getString(R.string.user_draw)};
-            mTxtResult.setText(getString(R.string.result) + strResults[game.getResult()]);
+            mTxtResult.setText(getString(R.string.text_result) + strResults[game.getResult()]);
         }
     };
 
@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
             mTxtComPlay.setText(strComputerChoice[game.getComputerChoice() - 1]);
 
             String strResults[] = {getString(R.string.user_lose), getString(R.string.user_win), getString(R.string.user_draw)};
-            mTxtResult.setText(getString(R.string.result) + strResults[game.getResult()]);
+            mTxtResult.setText(getString(R.string.text_result) + strResults[game.getResult()]);
         }
     };
 
@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
             mTxtComPlay.setText(strComputerChoice[game.getComputerChoice() - 1]);
 
             String strResults[] = {getString(R.string.user_lose), getString(R.string.user_win), getString(R.string.user_draw)};
-            mTxtResult.setText(getString(R.string.result) + strResults[game.getResult()]);
+            mTxtResult.setText(getString(R.string.text_result) + strResults[game.getResult()]);
         }
     };
 }

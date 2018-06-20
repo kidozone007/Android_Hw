@@ -11,6 +11,6 @@
     <string name="user_lose">很可惜，你輸了！</string>
     <string name="user_draw">雙方平手！</string>
     <string name="prompt_title">和電腦猜拳</string>
-    <string name="result">判定輸贏：</string>
+    <string name="text_result">判定輸贏：</string>
 
 </resources>
