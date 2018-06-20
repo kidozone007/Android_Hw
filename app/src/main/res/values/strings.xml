@@ -11,7 +11,7 @@
         <item>Dinner</item>
     </array>
 
-    <string name="btn_add">新增一筆</string>
+    <string name="btn_add_one">新增一筆</string>
     <string name="btn_see">查看記錄</string>
 
 
