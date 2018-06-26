@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/lot01" android:duration="100" />
+    <item android:drawable="@drawable/lot02" android:duration="100" />
+    <item android:drawable="@drawable/lot03" android:duration="100" />
+    <item android:drawable="@drawable/lot04" android:duration="100" />
+    <item android:drawable="@drawable/lot05" android:duration="100" />
+    <item android:drawable="@drawable/lot06" android:duration="100" />
+    <item android:drawable="@drawable/lot07" android:duration="100" />
+    <item android:drawable="@drawable/lot08" android:duration="100" />
+    <item android:drawable="@drawable/lot09" android:duration="100" />
+    <item android:drawable="@drawable/lot10" android:duration="100" />
+    <item android:drawable="@drawable/lot11" android:duration="100" />
+    <item android:drawable="@drawable/lot12" android:duration="100" />
+    <item android:drawable="@drawable/lot13" android:duration="100" />
+    <item android:drawable="@drawable/lot14" android:duration="100" />
+    <item android:drawable="@drawable/lot15" android:duration="100" />
+    <item android:drawable="@drawable/lot16" android:duration="100" />
+    <item android:drawable="@drawable/lot17" android:duration="100" />
+    <item android:drawable="@drawable/lot18" android:duration="100" />
+    <item android:drawable="@drawable/lot19" android:duration="100" />
+    <item android:drawable="@drawable/lot20" android:duration="100" />
+</animation-list>
